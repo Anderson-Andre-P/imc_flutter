@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202844288606",
+    "project_id": "imc-flutter-4abd9",
+    "storage_bucket": "imc-flutter-4abd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202844288606:android:355dc4e21b4eebcf5a66cf",
+        "android_client_info": {
+          "package_name": "app.anderson.andre.imc.imc_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4RdmMotCpnemZwjpjHHqHej5869RJJpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
